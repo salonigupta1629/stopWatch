@@ -1,0 +1,55 @@
+
+.container {
+  width: 500px;
+  height: 250px;
+  border-radius: 7px;
+  background: silver;
+  margin: auto;
+  box-shadow: 4px 4px 4px 4px;
+  /* margin-top: 40px; */
+}
+
+.btns {
+  margin-top: 130px;
+  border-radius: 11px;
+  text-align: center;
+  font-size: medium;
+  border: none;
+
+}
+
+.container p {
+  font-size: xx-large;
+  text-align: center;
+  
+}
+
+.start {
+  background-color: aquamarine;
+  font-size: medium;
+  padding: 12px;
+  border-radius: 5px;
+  margin-right: 45px;
+  box-shadow: 3px 3px 3px 3px gray;
+  border: none;
+}
+
+.pause {
+  background-color: rgb(233, 57, 57);
+  font-size: medium;
+  padding: 12px;
+  border-radius: 5px;
+  margin-right: 45px;
+  box-shadow: 3px 3px 3px 3px gray;
+  border: none;
+}
+
+.reset {
+  background-color: rgb(224, 224, 99);
+  font-size: medium;
+  padding: 12px;
+  border-radius: 5px;
+  margin-right: 45px;
+  box-shadow: 3px 3px 3px 3px gray;
+  border: none;
+}
